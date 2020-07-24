@@ -1,0 +1,62 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  
+}
+.container {
+  margin: 0;
+  text-align: center;
+  top: 50px;
+  bottom: 50px;
+  height: 50px;
+  position: static;
+  padding: 70px 0;
+
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.centersearch {
+  margin: 0;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  width: 90%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.centersearchbutton {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.centercheck {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.header{
+  margin: 0;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  top: 50px;
+  bottom: 50px;
+  height: 50px;
+
+  
+  color:rgb(2, 2, 179);
+
+}
